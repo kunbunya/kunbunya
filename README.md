@@ -1,22 +1,24 @@
-### Hi👋, I'm Sunthon Kunbunya
-<a href="https://www.st-webstudio.com"><img src="https://www.st-webstudio.com/asset/logo-trans-400.png" width="200"></a>
+## Hi 👋 . I'm Sunthon Kunbunya
 
-#### Coding
+### Coding
 - ✨ HTML5
 - ✨ MySQL
 - ✨ PHP
 - ✨ CSS3
 - ✨ Java Script
 
-#### CMS
+### CMS
 - ✨ Wordpress
 
-#### Graphic Design
+### Graphic Design
 - ✨ Photoshop
 - ✨ Illastrator
 - ✨ CAD Design
 
-#### Website
+
+<a href="https://www.st-webstudio.com"><img src="https://www.st-webstudio.com/asset/logo-trans-400.png" width="200"></a> <img src="https://www.st-webstudio.com/asset/wp.png" width="400">
+
+### Website
 <a href="https://www.st-webstudio.com">ST-Webstudio</a>
 <!--
 **kunbunya/kunbunya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
