@@ -2,6 +2,7 @@
 
 <img src="https://www.st-webstudio.com/data/st01.png" width="">
 
+<a href="https://www.st-webstudio.com"><img src="https://www.st-webstudio.com/asset/logo-trans-400.png" width="200"></a> <img src="https://www.st-webstudio.com/asset/wp.png" width="400">
 
 ### Coding
 - ✨ HTML5
@@ -17,9 +18,6 @@
 - ✨ Photoshop
 - ✨ Illastrator
 - ✨ CAD Design
-
-
-<a href="https://www.st-webstudio.com"><img src="https://www.st-webstudio.com/asset/logo-trans-400.png" width="200"></a> <img src="https://www.st-webstudio.com/asset/wp.png" width="400">
 
 ### Website
 <a href="https://www.st-webstudio.com">ST-Webstudio</a>
